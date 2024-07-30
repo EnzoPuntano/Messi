@@ -1,0 +1,10 @@
+body{
+background-image: url(https://st2.depositphotos.com/1244201/10066/i/450/depositphotos_100668504-stock-photo-navy-blue-canvas-texture.jpg);
+}
+table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+  }
+.fixture{
+  color: white;
+}
