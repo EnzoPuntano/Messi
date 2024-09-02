@@ -1,3 +1,11 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+header{
+  background-color: black;
+  padding: 2%;
+}
 body{
 background-image: url(https://st2.depositphotos.com/1244201/10066/i/450/depositphotos_100668504-stock-photo-navy-blue-canvas-texture.jpg);
 }
@@ -18,5 +26,17 @@ table, th, td {
 }
 
 .day{
-  color: white;
+  margin-top: 20px;
+  color: black;
+  height: 50px;
+  width: 150px;
+  border:solid black 4px;
+
+}
+.botones{
+  display: flex;
+  justify-content: space-evenly;
+}
+h1{
+  color:white ;
 }
